@@ -1,4 +1,4 @@
--- [[ Format args for 3 args : cmdType, SteamID, money ]] --
+-- [[Format args for 3 args : cmdType, SteamID, money]] --
 local function explodeArgs(args)
     if not istable(args) then return end
 
