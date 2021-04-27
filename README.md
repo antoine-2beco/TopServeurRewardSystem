@@ -1,6 +1,6 @@
 # ENGLISH
 ## TopServeurRewardSystem
-Reward system on Garry's Mod claimable thanks to a Discord bot following a vote on https://top-servers.net.
+Reward system on Garry's Mod claimable thanks to a Discord bot following a vote on https://top-serveurs.net.
 
 ## How to use ?
 - Configure ts_config_bot;
